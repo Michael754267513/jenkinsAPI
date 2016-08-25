@@ -1,3 +1,4 @@
+#!/bin/env python
 # encoding: utf-8
 import ConfigParser, time, sys
 from jenkinsapi.jenkins import Jenkins
